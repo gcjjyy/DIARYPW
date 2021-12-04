@@ -20,10 +20,10 @@ https://cafe.naver.com/olddos/49207
 
 따라서 암호문을 해독하기 위해선 읽은 문자열의 (문자코드 - 1) / 2를 하면 원래 암호문이 나오게 됩니다.
 
-볼랜드C++ 등으로 컴파일 할 수 있습니다.
+TURBO C++ 등으로 컴파일 할 수 있습니다.
 
 ```sh
-C:\DIARY>BCC -EDIARY.EXE DIARY.CPP
+C:\DIARY>TCC -EDIARY.EXE DIARY.CPP
 ```
 
 <img width="832" alt="diarypw_screenshot" src="https://user-images.githubusercontent.com/39606947/144691290-282d3d98-a9a0-45f9-a00d-0d731eb4b90f.png">
