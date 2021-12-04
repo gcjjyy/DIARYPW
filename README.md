@@ -25,3 +25,5 @@ https://cafe.naver.com/olddos/49207
 ```sh
 C:\DIARY>BCC -EDIARY.EXE DIARY.CPP
 ```
+
+<img width="832" alt="diarypw_screenshot" src="https://user-images.githubusercontent.com/39606947/144691290-282d3d98-a9a0-45f9-a00d-0d731eb4b90f.png">
